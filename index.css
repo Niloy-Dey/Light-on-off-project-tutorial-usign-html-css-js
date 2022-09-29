@@ -1,0 +1,31 @@
+h1{
+    color: red;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+body{
+    background-color: black;
+}
+
+.light-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    padding: 10px;
+    font-size: 20px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 6px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: space-between;
+}
